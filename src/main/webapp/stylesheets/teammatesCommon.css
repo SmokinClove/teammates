@@ -574,7 +574,7 @@ Apply to thead to make headers not bold.
 /////////////////////// Static page /////////////////////////
 //////////////////////////////////////////////////////////*/
 .navbar-brand {
-    padding: 0;
+    padding-left: 0;
 }
 
 .btn-login {
